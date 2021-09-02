@@ -1,0 +1,35 @@
+
+.flex-box {
+
+    display: flex!important;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.container-auth {
+    height: 100vh;
+}
+
+.card-login {
+
+    height: 500px;
+    width: 600px;
+    margin: auto;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    border-radius: 0!important;
+    box-shadow: -5px 5px 13px 0px rgba(0,0,0,0.21)!important;
+    
+}
+
+.input-login {
+
+    margin: 1rem!important;
+    width: 400px;
+}
